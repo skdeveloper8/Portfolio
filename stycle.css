@@ -281,7 +281,7 @@ form button{
 form button:hover {
     transform: scale(1.15);
 }
-/* @media (){
+
 @media only screen and (max-width: 680px) { 
     .side-nav { 
         display: none; 
@@ -330,4 +330,4 @@ form button:hover {
     } 
 }
 
-} */
+
